@@ -1,3 +1,0 @@
-#!/bin/bash
-echo "Running Pre Start hook"
-echo "Completed Pre Start hook"
