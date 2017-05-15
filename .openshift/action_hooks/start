@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Running Start hook"
+echo "Completed Start hook"
