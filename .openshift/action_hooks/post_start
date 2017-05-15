@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Running Post Start hook"
+echo "Completed Post Start hook"
